@@ -36,7 +36,6 @@ By combining **daily logs**, **symptom analysis**, **AI insights**, and **intera
 
 ## 🖼️ UI/UX Concept Previews  
 
-> *(Placeholder visuals — replace with actual app screenshots later)*  
 
 - **Splash Screen**: Magical glowing gut guardian mascot.  
 - **Dashboard**: Circular gut health meter with playful animations.  
